@@ -319,7 +319,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Devendra Kumar**
 - GitHub: [@devendrakumar-code](https://github.com/devendrakumar-code)
-- Email: [your-email@example.com](mailto:devendra012003@gmail.com)
+- Email: [your-devendra012003@gmail.com](mailto:devendra012003@gmail.com)
 
 ## 🙏 Acknowledgments
 
